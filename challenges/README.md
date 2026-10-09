@@ -24,15 +24,15 @@ The live, interactive game modes — not "solve a puzzle" but "hold a box / run 
 
 | Format | Folder | File | Covers |
 |--------|--------|------|--------|
-| **Attack & Defense** | [`formats/attack-defense/`](formats/attack-defense/) | [Attack-Defense-Complete.md](formats/attack-defense/Attack-Defense-Complete.md) | prep/roles, first-hour hardening, find-the-bug per class, exploit farms, traffic-stealing, patching under SLA, monitoring, anti-persistence |
-| **King of the Hill** | [`formats/koth/`](formats/koth/) | [KoTH-Complete.md](formats/koth/KoTH-Complete.md) | fast initial access, privesc, claiming/holding the hill, patching your own entry, persistence, evicting rivals within rules |
+| **Attack & Defense** | [`koth+ad/attack-defense/`](koth+ad/attack-defense/) | [Attack-Defense-Complete.md](koth+ad/attack-defense/Attack-Defense-Complete.md) | prep/roles, first-hour hardening, find-the-bug per class, exploit farms, traffic-stealing, patching under SLA, monitoring, anti-persistence |
+| **King of the Hill** | [`koth+ad/koth/`](koth+ad/koth/) | [KoTH-Complete.md](koth+ad/koth/KoTH-Complete.md) | fast initial access, privesc, claiming/holding the hill, patching your own entry, persistence, evicting rivals within rules |
 
 > The **D-CTF final is Attack & Defense.** This A/D pack is the general study material; the D-CTF-specific A/D walkthrough and preparation kit live in [`../guides/`](../guides/) ([how A/D finals work](../guides/ad-finals-guide.md), [preparation roadmap](../guides/preparation-roadmap.md), [tooling](../guides/tooling.md)). KoTH isn't a D-CTF format, but it drills the same root-fast / patch-your-entry / hold-under-contention muscles.
 
 ## How it's grouped
 
 - **Jeopardy skill categories** — one folder each (crypto, pwn, reverse, forensics, networking, osint). **Stego** is nested under `forensics/` because it's a sub-category of forensics (the material treats it that way: same triage-first discipline, roadmap points back to forensics).
-- **Competition formats** — grouped together under `formats/` (attack-defense, koth), because they're live game modes rather than puzzle categories, and the two packs cross-reference each other.
+- **Competition formats** — grouped together under `koth+ad/` (attack-defense, koth), because they're live game modes rather than puzzle categories, and the two packs cross-reference each other.
 
 ## Notes on the source
 
