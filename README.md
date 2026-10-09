@@ -1,6 +1,16 @@
 # dctffinsls
-materiale dctf finals
 
-materiale pentru dctf finals
+Materials for the **DefCamp D-CTF finals** (Bucharest): explained writeups plus a full preparation kit.
 
-- [WRITEUPS.md](WRITEUPS.md) — guide to the D-CTF (DefCamp) finals writeups, explained per year: Jeopardy 2015–2019 in [writeups/](writeups/), Attack & Defense 2022+ in [writeups/attack-defense.md](writeups/attack-defense.md).
+**Start here → [WRITEUPS.md](WRITEUPS.md)** — the complete index.
+
+- **Writeups per year** in [writeups/](writeups/): Jeopardy finals [2015](writeups/2015.md), [2016](writeups/2016.md), [2017](writeups/2017.md), [2018](writeups/2018.md), [2019](writeups/2019.md); Attack & Defense [2022+](writeups/attack-defense.md).
+- **Preparation & reference** in [guides/](guides/):
+  - [How A/D finals work](guides/ad-finals-guide.md)
+  - [Preparation roadmap](guides/preparation-roadmap.md)
+  - [Tooling](guides/tooling.md)
+  - [Teams & groups](guides/teams-and-groups.md)
+  - [Real scenarios](guides/real-scenarios.md)
+  - [Techniques index](guides/techniques-index.md)
+
+Writeups are **explained and linked, not copied**; credit stays with the original authors (p4, Balsn, DoubleSigma, 0x90r00t and others). Flags and verbatim final exploit payloads are left out — follow the source links. See the reliability notes in [WRITEUPS.md](WRITEUPS.md#how-reliable-is-this-read-before-relying-on-it).

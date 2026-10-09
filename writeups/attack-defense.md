@@ -1,5 +1,7 @@
 # D-CTF Attack & Defense finals (2022 onward)
 
+> For the full picture see the guides: **[how A/D finals work](../guides/ad-finals-guide.md)**, **[preparation roadmap](../guides/preparation-roadmap.md)**, **[tooling](../guides/tooling.md)**, **[teams & groups](../guides/teams-and-groups.md)**, **[real scenarios](../guides/real-scenarios.md)**. This file is the raw per-year notes those guides build on.
+
 From 2022 the qualifier stayed online Jeopardy, but the on-site final became **Attack & Defense (A/D)**.
 **No per-service exploit/patch writeups were found for any A/D final.** Everything below comes from organizer and team commentary, **seen only as search-result excerpts** (the pages were not opened),
 so treat the numbers as reported, not verified.
