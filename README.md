@@ -12,6 +12,8 @@ Materials for the **DefCamp D-CTF finals** (Bucharest): explained writeups plus 
   - [Teams & groups](guides/teams-and-groups.md)
   - [Real scenarios](guides/real-scenarios.md)
   - [Techniques index](guides/techniques-index.md)
-- **Per-category study packs** in [challenges/](challenges/): [crypto](challenges/crypto/Crypto-Complete.md), [pwn](challenges/pwn/Pwn-Complete.md), [reverse](challenges/reverse/RE-Complete.md), [forensics](challenges/forensics/Forensics-Complete.md), [stego](challenges/forensics/stego/Stego-Complete.md) — techniques, tools, 100 scripts, and a study roadmap each.
+- **Per-category study packs** in [challenges/](challenges/) — techniques, tools, scripts, and a study roadmap each:
+  - Jeopardy skills: [crypto](challenges/crypto/Crypto-Complete.md), [pwn](challenges/pwn/Pwn-Complete.md), [reverse](challenges/reverse/RE-Complete.md), [forensics](challenges/forensics/Forensics-Complete.md), [stego](challenges/forensics/stego/Stego-Complete.md), [networking](challenges/networking/Networking-Complete.md), [osint](challenges/osint/OSINT-Complete.md)
+  - Competition formats: [attack & defense](challenges/formats/attack-defense/Attack-Defense-Complete.md), [king of the hill](challenges/formats/koth/KoTH-Complete.md)
 
 

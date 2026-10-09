@@ -38,6 +38,10 @@ Full skill-builders per CTF category (techniques + tools + 100 scripts + roadmap
 | Reverse | [challenges/reverse/RE-Complete.md](challenges/reverse/RE-Complete.md) |
 | Forensics | [challenges/forensics/Forensics-Complete.md](challenges/forensics/Forensics-Complete.md) |
 | Stego (under forensics) | [challenges/forensics/stego/Stego-Complete.md](challenges/forensics/stego/Stego-Complete.md) |
+| Networking | [challenges/networking/Networking-Complete.md](challenges/networking/Networking-Complete.md) |
+| OSINT | [challenges/osint/OSINT-Complete.md](challenges/osint/OSINT-Complete.md) |
+| Attack & Defense (format) | [challenges/formats/attack-defense/Attack-Defense-Complete.md](challenges/formats/attack-defense/Attack-Defense-Complete.md) |
+| King of the Hill (format) | [challenges/formats/koth/KoTH-Complete.md](challenges/formats/koth/KoTH-Complete.md) |
 
 ## How reliable is this? (read before relying on it)
 
