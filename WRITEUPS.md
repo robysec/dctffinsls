@@ -27,6 +27,18 @@ Everything about the **D-CTF finals** (DefCamp Capture the Flag, Bucharest): exp
 | [guides/real-scenarios.md](guides/real-scenarios.md) | 11 "you are here → what you'd do" worked examples from real D-CTF tasks |
 | [guides/techniques-index.md](guides/techniques-index.md) | Every technique in this repo, grouped by category, linked to its task |
 
+## Per-category study packs
+
+Full skill-builders per CTF category (techniques + tools + 100 scripts + roadmap), in [challenges/](challenges/):
+
+| Category | File |
+|----------|------|
+| Crypto | [challenges/crypto/Crypto-Complete.md](challenges/crypto/Crypto-Complete.md) |
+| Pwn | [challenges/pwn/Pwn-Complete.md](challenges/pwn/Pwn-Complete.md) |
+| Reverse | [challenges/reverse/RE-Complete.md](challenges/reverse/RE-Complete.md) |
+| Forensics | [challenges/forensics/Forensics-Complete.md](challenges/forensics/Forensics-Complete.md) |
+| Stego (under forensics) | [challenges/forensics/stego/Stego-Complete.md](challenges/forensics/stego/Stego-Complete.md) |
+
 ## How reliable is this? (read before relying on it)
 
 - **Read in full:** every p4-team writeup for 2015–2019 (from [p4-team/ctf](https://github.com/p4-team/ctf)), and the **2018 Scribbles + TicketCore** writeups (from the [balsn](https://github.com/balsn/ctf_writeup) and [w181496](https://github.com/w181496/CTF) GitHub mirrors). Those explanations are paraphrases of what the writeups say.

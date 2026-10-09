@@ -12,5 +12,6 @@ Materials for the **DefCamp D-CTF finals** (Bucharest): explained writeups plus 
   - [Teams & groups](guides/teams-and-groups.md)
   - [Real scenarios](guides/real-scenarios.md)
   - [Techniques index](guides/techniques-index.md)
+- **Per-category study packs** in [challenges/](challenges/): [crypto](challenges/crypto/Crypto-Complete.md), [pwn](challenges/pwn/Pwn-Complete.md), [reverse](challenges/reverse/RE-Complete.md), [forensics](challenges/forensics/Forensics-Complete.md), [stego](challenges/forensics/stego/Stego-Complete.md) — techniques, tools, 100 scripts, and a study roadmap each.
 
 Writeups are **explained and linked, not copied**; credit stays with the original authors (p4, Balsn, DoubleSigma, 0x90r00t and others). Flags and verbatim final exploit payloads are left out — follow the source links. See the reliability notes in [WRITEUPS.md](WRITEUPS.md#how-reliable-is-this-read-before-relying-on-it).
